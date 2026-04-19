@@ -5,6 +5,7 @@ import = [
 [window]
 padding = { x = 8, y = 8 }
 decorations = "full"
+opacity=0.8
 
 [font]
 normal = { family = "JetBrains Mono NF", style = "Regular" }
