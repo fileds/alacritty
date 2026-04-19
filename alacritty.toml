@@ -11,7 +11,7 @@ opacity=0.8
 normal = { family = "JetBrains Mono NF", style = "Regular" }
 bold = { family = "JetBrains Mono NF", style = "Bold" }
 italic = { family = "JetBrains Mono NF", style = "Italic" }
-size = 12.0
+size = 10.0
 
 [cursor]
 style = { shape = "Block", blinking = "On" }
